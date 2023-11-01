@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="37c57056-aa05-4516-8ba8-febd404a0cce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/question_1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/question_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/question_2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +39,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -82,7 +82,11 @@
       <updated>1698008191665</updated>
       <workItem from="1698255724236" duration="14614000" />
       <workItem from="1698353457191" duration="6182000" />
-      <workItem from="1698361046666" duration="566000" />
+      <workItem from="1698361046666" duration="799000" />
+      <workItem from="1698612434654" duration="808000" />
+      <workItem from="1698766498664" duration="240000" />
+      <workItem from="1698840771318" duration="9000" />
+      <workItem from="1698867059601" duration="5075000" />
     </task>
     <servers />
   </component>
